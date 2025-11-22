@@ -1,0 +1,17 @@
+[ {
+  "id" : "4d272d96-fbfa-4831-85e4-5eda3b6be1c3",
+  "username" : "andrei",
+  "email" : "andrei@example.com",
+  "passwordHash" : "$2a$10$m/OedMROyY9NRbztfgz05OyNPPELehHwqKR4nWYHqo/9w9Whxs6Lu",
+  "roles" : [ "USER" ],
+  "createdAt" : "2025-10-28T11:36:35.553582Z",
+  "enabled" : true
+}, {
+  "id" : "f480e10c-b44f-402c-a5ef-71e27f02e105",
+  "username" : "test",
+  "email" : "test@example.com",
+  "passwordHash" : "$2a$10$qO6qm42waXDYuR6UoAwr1u2GwQb/ToQYey1KKkHKZU6B5mrmoA8Ga",
+  "roles" : [ "USER" ],
+  "createdAt" : "2025-10-27T21:30:20.782563700Z",
+  "enabled" : true
+} ]
